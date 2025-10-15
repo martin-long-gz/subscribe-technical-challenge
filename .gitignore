@@ -1,0 +1,18 @@
+# RSpec
+spec/examples.txt
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
